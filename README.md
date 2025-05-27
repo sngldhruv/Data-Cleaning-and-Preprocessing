@@ -1,4 +1,4 @@
-# Elevate-Labs
+# Day 1
 1. **Loaded the data** using `pandas`.
 2. **Removed duplicates** using `.drop_duplicates()`.
 3. **Renamed columns** to lowercase with underscores for clarity.
